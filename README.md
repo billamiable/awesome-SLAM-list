@@ -45,6 +45,12 @@
 
 [Visual Odometry: Part II - Matching, robustness, optimization, and applications](http://rpg.ifi.uzh.ch/docs/VO_Part_II_Scaramuzza.pdf), F. Fraundorfer and D. Scaramuzza, IEEE Robotics and Automation Magazine, Volume 19, issue 2, 2012
 
+[Simultaneous Localisation and Mapping (SLAM):
+Part I The Essential Algorithms](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/Durrant-Whyte_Bailey_SLAM-tutorial-I.pdf), Whyte, H. Durrant. "Simultaneous localisation and mapping (SLAM): Part I the essential algorithms." Robotics and Automation Magazine (2006).
+
+[Simultaneous Localisation and Mapping (SLAM):
+Part II State of the Art](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/Bailey_Durrant-Whyte_SLAM-tutorial-II.pdf), Bailey, Tim, and Hugh Durrant-Whyte. "Simultaneous localization and mapping (SLAM): Part II." IEEE Robotics & Automation Magazine 13.3 (2006): 108-117.
+
 [MRPT SLAM](http://www.mrpt.org/List_of_SLAM_algorithms)
 
 <a name="Computer Vision Books"></a>
