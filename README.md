@@ -34,22 +34,21 @@
 <a name="SLAM Tutorial & Survey"></a>
 ## SLAM Tutorial & Survey
 
-[OpenSLAM](https://openslam.org) The OpenSLAM Team: Cyrill Stachniss, Udo Frese, Giorgio Grisetti 
-
 [ICRA 2016 Aerial Robotics - (Visual odometry)](http://mrsl.grasp.upenn.edu/loiannog/tutorial_ICRA2016/VO_Tutorial.pdf) D. Scaramuzza
-
-[Simultaneous Localization And Mapping: Present, Future, and the Robust-Perception Age](http://arxiv.org/pdf/1606.05830.pdf). C. Cadena, L. Carlone, H. Carrillo, Y. Latif, D. Scaramuzza, J. Neira, I. D. Reid, J. J. Leonard. "The paper summarizes the outcome of the workshop “The Problem of Mobile Sensors: Setting future goals and indicators of progress for SLAM” held during the Robotics: Science and System (RSS) conference (Rome, July 2015)."
-
 
 [Visual Odometry: Part I - The First 30 Years and Fundamentals](http://rpg.ifi.uzh.ch/docs/VO_Part_I_Scaramuzza.pdf), D. Scaramuzza and F. Fraundorfer, IEEE Robotics and Automation Magazine, Volume 18, issue 4, 2011
 
 [Visual Odometry: Part II - Matching, robustness, optimization, and applications](http://rpg.ifi.uzh.ch/docs/VO_Part_II_Scaramuzza.pdf), F. Fraundorfer and D. Scaramuzza, IEEE Robotics and Automation Magazine, Volume 19, issue 2, 2012
+
+[Simultaneous Localization And Mapping: Present, Future, and the Robust-Perception Age](http://arxiv.org/pdf/1606.05830.pdf). C. Cadena, L. Carlone, H. Carrillo, Y. Latif, D. Scaramuzza, J. Neira, I. D. Reid, J. J. Leonard. "The paper summarizes the outcome of the workshop “The Problem of Mobile Sensors: Setting future goals and indicators of progress for SLAM” held during the Robotics: Science and System (RSS) conference (Rome, July 2015)."
 
 [Simultaneous Localisation and Mapping (SLAM):
 Part I The Essential Algorithms](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/Durrant-Whyte_Bailey_SLAM-tutorial-I.pdf), Whyte, H. Durrant. "Simultaneous localisation and mapping (SLAM): Part I the essential algorithms." Robotics and Automation Magazine (2006).
 
 [Simultaneous Localisation and Mapping (SLAM):
 Part II State of the Art](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/Bailey_Durrant-Whyte_SLAM-tutorial-II.pdf), Bailey, Tim, and Hugh Durrant-Whyte. "Simultaneous localization and mapping (SLAM): Part II." IEEE Robotics & Automation Magazine 13.3 (2006): 108-117.
+
+[OpenSLAM](https://openslam.org) The OpenSLAM Team: Cyrill Stachniss, Udo Frese, Giorgio Grisetti 
 
 [MRPT SLAM](http://www.mrpt.org/List_of_SLAM_algorithms)
 
@@ -81,6 +80,9 @@ Part II State of the Art](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/r
 - Courses: 视觉SLAM十四讲 | Author: 高翔
 
    [https://github.com/gaoxiang12/slambook](https://github.com/gaoxiang12)
+   
+   [视频公开课链接](https://www.bilibili.com/video/av19397094?from=search&seid=9124712683684801531)
+   
  - 视觉SLAM十四讲:第一讲   链接: http://pan.baidu.com/s/1i4IpE3z 密码: wt47
  - 视觉SLAM十四讲:第二讲   链接: 
  - 视觉SLAM十四讲:第三讲   链接: https://v.qq.com/x/page/g03571ndred.html
@@ -101,6 +103,11 @@ Part II State of the Art](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/r
   [http://www.cnblogs.com/gaoxiang12/tag/视觉SLAM/](http://www.cnblogs.com/gaoxiang12/tag/视觉SLAM/)
  
 <a name="Papers-SLAM"></a>
+
+- Courses: Robotic Mapping | Author: Cyrill Stachniss
+
+	[Emphasis on Probabilistic SLAM](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_)
+
 #Papers-SLAM
 
 <a name="Visual Odometry"></a>
