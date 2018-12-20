@@ -102,12 +102,11 @@ Part II State of the Art](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/r
 
   [http://www.cnblogs.com/gaoxiang12/tag/视觉SLAM/](http://www.cnblogs.com/gaoxiang12/tag/视觉SLAM/)
  
-<a name="Papers-SLAM"></a>
-
 - Courses: Robotic Mapping | Author: Cyrill Stachniss
 
 	[Emphasis on Probabilistic SLAM](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_)
 
+<a name="Papers-SLAM"></a>
 #Papers-SLAM
 
 <a name="Visual Odometry"></a>
